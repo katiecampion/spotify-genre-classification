@@ -1,0 +1,39 @@
+MODEL RESULTS
+========================================
+
+Random Forest
+Accuracy:  0.7533
+Precision: 0.7548
+Recall:    0.7533
+F1 Score:  0.7524
+
+Decision Tree
+Accuracy:  0.6433
+Precision: 0.6497
+Recall:    0.6433
+F1 Score:  0.6441
+
+SVM
+Accuracy:  0.6233
+Precision: 0.6217
+Recall:    0.6233
+F1 Score:  0.6203
+
+KNN
+Accuracy:  0.6225
+Precision: 0.6279
+Recall:    0.6225
+F1 Score:  0.6213
+
+Neural Network NumPy
+Accuracy:  0.6200
+Precision: 0.6159
+Recall:    0.6200
+F1 Score:  0.6168
+
+Logistic Regression
+Accuracy:  0.5558
+Precision: 0.5478
+Recall:    0.5558
+F1 Score:  0.5489
+
